@@ -10,7 +10,7 @@ Everything about this project is open source and documented in our [website](htt
 **NOTE:** While we always end up being open source, we test our biggest updates in a closed source repository before publishing them into the public one.
 
 ## Owners / Contacts
-Codename Crew currently has 4 owners: [Nex_isDumb](https://github.com/NexIsDumb), [Lunarcleint](https://github.com/lunarcleint), [WizardMantis](https://github.com/WizardMantis441), [Frakits](https://github.com/Frakits).<br>
+Codename Crew currently has 5 owners: [Nex_isDumb](https://github.com/NexIsDumb), [Lunarcleint](https://github.com/lunarcleint), [WizardMantis](https://github.com/WizardMantis441), [Frakits](https://github.com/Frakits), [Raltyro](https://github.com/Raltyro).<br>
 We also collaborate with many other talented devs who work on the engine (who are all individually credited in-engine as well as [here](https://github.com/orgs/CodenameCrew/people))!<br>
 If you have issues or questions, or just want to recieve updates (or just like devs shitposting) you can also join our [Discord community server](https://discord.gg/WTzm35kekB) where you can find all the devs and owners active!
 
